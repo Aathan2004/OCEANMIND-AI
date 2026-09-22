@@ -109,6 +109,17 @@ def fit_temperature(logits: torch.Tensor, labels: torch.Tensor) -> float:
 def train_model() -> None:
     dataset_dir, models_dir = project_paths()
     models_dir.mkdir(parents=True, exist_ok=True)
+    # A live server may be reading fish_model.pth/classes.json from models_dir
+    # while this runs. Checkpoints are written here throughout training and only
+    # swapped into the live paths atomically once, after training and
+    # calibration finish, so the server never observes a mid-training model
+    # paired with the wrong classes.json.
+    staging_dir = models_dir / "staging"
+    staging_dir.mkdir(parents=True, exist_ok=True)
+    staging_model_path = staging_dir / "fish_model.pth"
+    live_model_path = models_dir / "fish_model.pth"
+    live_classes_path = models_dir / "classes.json"
+    live_history_path = models_dir / "training_history.json"
     train_dir, val_dir = dataset_dir / "train", dataset_dir / "validation"
     if not train_dir.exists() or not val_dir.exists():
         raise SystemExit("Missing split folders. Run training/prepare_dataset.py first.")
@@ -249,7 +260,7 @@ def train_model() -> None:
                     "best_validation_accuracy": val_accuracy,
                     "epoch": epoch,
                 },
-                models_dir / "fish_model.pth",
+                staging_model_path,
             )
         else:
             stale += 1
@@ -257,18 +268,22 @@ def train_model() -> None:
                 print(f"Early stopping at epoch {epoch}.")
                 break
 
-    # Reload the best weights, then calibrate on the validation set.
-    checkpoint = torch.load(models_dir / "fish_model.pth", map_location=device, weights_only=False)
+    # Reload the best weights, then calibrate on the validation set. Everything
+    # up to here only touches staging_dir; the live model is untouched.
+    checkpoint = torch.load(staging_model_path, map_location=device, weights_only=False)
     model.load_state_dict(checkpoint["model_state_dict"])
     logits, labels = collect_logits(model, val_loader, device)
     temperature = fit_temperature(logits, labels)
     print(f"Fitted calibration temperature: {temperature:.4f}")
 
     checkpoint["temperature"] = temperature
-    torch.save(checkpoint, models_dir / "fish_model.pth")
+    torch.save(checkpoint, staging_model_path)
 
-    (models_dir / "classes.json").write_text(json.dumps(idx_to_class, indent=2), encoding="utf-8")
-    (models_dir / "training_history.json").write_text(
+    staging_classes_path = staging_dir / "classes.json"
+    staging_classes_path.write_text(json.dumps(idx_to_class, indent=2), encoding="utf-8")
+
+    staging_history_path = staging_dir / "training_history.json"
+    staging_history_path.write_text(
         json.dumps(
             {
                 "seed": seed,
@@ -289,7 +304,17 @@ def train_model() -> None:
         ),
         encoding="utf-8",
     )
+
+    # Deploy atomically: os.replace is a single filesystem rename per file, so a
+    # concurrent reader always sees either the fully-old or fully-new file, never
+    # a half-written one. classes.json is swapped in only after fish_model.pth,
+    # so a request racing this instant still gets a consistent (old, old) or
+    # (new, new) pair — never (new model, old classes).
+    os.replace(staging_model_path, live_model_path)
+    os.replace(staging_classes_path, live_classes_path)
+    os.replace(staging_history_path, live_history_path)
     print(f"Best validation accuracy: {best_accuracy:.4f}")
+    print(f"Deployed to {live_model_path} and {live_classes_path}.")
 
 
 if __name__ == "__main__":
