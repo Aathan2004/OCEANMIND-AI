@@ -21,7 +21,7 @@ import os
 from pathlib import Path
 
 import torch
-from PIL import Image, ImageFilter, ImageStat
+from PIL import Image, ImageFilter, ImageOps, ImageStat
 
 from app.device import resolve_device
 from app.fish_gate import get_fish_gate
@@ -119,6 +119,13 @@ class FishPredictor:
             image = value
         else:
             raise ValueError("Expected image path, bytes, or PIL.Image")
+        # Phone photos carry an EXIF orientation tag rather than storing pixels
+        # upright; PIL does not apply it on load. Skipping this means a portrait
+        # photo can be fed to the model sideways, which tanks confidence without
+        # ever looking like an error. The client may already correct this via
+        # canvas re-encoding, but small/unmodified uploads bypass that, so this
+        # must not depend on the client.
+        image = ImageOps.exif_transpose(image)
         return image.convert("RGB")
 
     def _thresholds(self) -> dict:
