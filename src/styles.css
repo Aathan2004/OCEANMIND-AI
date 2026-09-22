@@ -1,0 +1,276 @@
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+/*
+ * Design system definition.
+ *
+ * The @theme inline block maps CSS custom properties to Tailwind utility
+ * classes (e.g. --color-primary -> bg-primary, text-primary).
+ *
+ * The :root and .dark blocks define the actual color values using oklch.
+ * All colors MUST use oklch format.
+ *
+ * To add a new semantic color:
+ * 1. Add the variable to :root (light value) and .dark (dark value)
+ * 2. Register it in @theme inline as --color-<name>: var(--<name>)
+ */
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+  --radius-3xl: calc(var(--radius) + 12px);
+  --radius-4xl: calc(var(--radius) + 16px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-ring-offset-background: var(--background);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+@theme inline {
+  --color-ocean-deep: var(--ocean-deep);
+  --color-ocean-cyan: var(--ocean-cyan);
+  --color-ocean-teal: var(--ocean-teal);
+  --color-sea-green: var(--sea-green);
+  --font-display: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "DM Sans", ui-sans-serif, system-ui, sans-serif;
+}
+
+:root {
+  --radius: 1rem;
+  --ocean-deep: oklch(0.34 0.11 251);
+  --ocean-cyan: oklch(0.71 0.15 231);
+  --ocean-teal: oklch(0.72 0.13 176);
+  --sea-green: oklch(0.75 0.17 148);
+
+  --background: oklch(0.16 0.045 254);
+  --foreground: oklch(0.97 0.005 250);
+  --card: oklch(0.22 0.05 254 / 65%);
+  --card-foreground: oklch(0.97 0.005 250);
+  --popover: oklch(0.19 0.05 254);
+  --popover-foreground: oklch(0.97 0.005 250);
+  --primary: oklch(0.71 0.15 231);
+  --primary-foreground: oklch(0.15 0.05 254);
+  --secondary: oklch(0.27 0.055 254);
+  --secondary-foreground: oklch(0.97 0.005 250);
+  --muted: oklch(0.26 0.05 254);
+  --muted-foreground: oklch(0.72 0.03 240);
+  --accent: oklch(0.72 0.13 176);
+  --accent-foreground: oklch(0.15 0.05 254);
+  --destructive: oklch(0.62 0.21 25);
+  --destructive-foreground: oklch(0.98 0.003 248);
+  --border: oklch(0.98 0.01 240 / 12%);
+  --input: oklch(0.98 0.01 240 / 16%);
+  --ring: oklch(0.71 0.15 231);
+  --chart-1: oklch(0.71 0.15 231);
+  --chart-2: oklch(0.72 0.13 176);
+  --chart-3: oklch(0.75 0.17 148);
+  --chart-4: oklch(0.8 0.13 90);
+  --chart-5: oklch(0.65 0.2 320);
+  --sidebar: oklch(0.19 0.05 254 / 80%);
+  --sidebar-foreground: oklch(0.97 0.005 250);
+  --sidebar-primary: oklch(0.71 0.15 231);
+  --sidebar-primary-foreground: oklch(0.15 0.05 254);
+  --sidebar-accent: oklch(0.27 0.055 254);
+  --sidebar-accent-foreground: oklch(0.97 0.005 250);
+  --sidebar-border: oklch(0.98 0.01 240 / 12%);
+  --sidebar-ring: oklch(0.71 0.15 231);
+
+  --gradient-ocean: linear-gradient(135deg, var(--ocean-cyan), var(--ocean-teal));
+  --gradient-abyss: radial-gradient(
+      120% 90% at 15% 0%,
+      color-mix(in oklab, var(--ocean-cyan) 22%, transparent),
+      transparent 60%
+    ),
+    radial-gradient(
+      100% 80% at 90% 10%,
+      color-mix(in oklab, var(--ocean-teal) 16%, transparent),
+      transparent 55%
+    ),
+    linear-gradient(180deg, oklch(0.19 0.05 254), oklch(0.13 0.04 254));
+  --shadow-glass: 0 24px 60px -24px oklch(0.1 0.05 254 / 80%);
+  --shadow-glow: 0 0 40px -8px color-mix(in oklab, var(--ocean-cyan) 45%, transparent);
+}
+
+.light {
+  --background: oklch(0.98 0.005 240);
+  --foreground: oklch(0.2 0.05 254);
+  --card: oklch(1 0 0 / 75%);
+  --card-foreground: oklch(0.2 0.05 254);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.2 0.05 254);
+  --secondary: oklch(0.94 0.015 235);
+  --secondary-foreground: oklch(0.24 0.05 254);
+  --muted: oklch(0.94 0.015 235);
+  --muted-foreground: oklch(0.48 0.04 250);
+  --border: oklch(0.34 0.11 251 / 14%);
+  --input: oklch(0.34 0.11 251 / 18%);
+  --sidebar: oklch(1 0 0 / 80%);
+  --sidebar-foreground: oklch(0.2 0.05 254);
+  --gradient-abyss: radial-gradient(
+      120% 90% at 15% 0%,
+      color-mix(in oklab, var(--ocean-cyan) 18%, transparent),
+      transparent 60%
+    ),
+    linear-gradient(180deg, oklch(0.99 0.01 235), oklch(0.95 0.02 230));
+  --shadow-glass: 0 20px 50px -28px oklch(0.34 0.11 251 / 35%);
+}
+
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+
+  body {
+    background: var(--gradient-abyss);
+    background-attachment: fixed;
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+    letter-spacing: -0.02em;
+  }
+}
+
+@utility glass {
+  background: var(--card);
+  backdrop-filter: blur(18px) saturate(140%);
+  border: 1px solid var(--color-border);
+  box-shadow: var(--shadow-glass);
+}
+
+@utility glass-hover {
+  transition:
+    transform 0.35s cubic-bezier(0.2, 0.8, 0.2, 1),
+    box-shadow 0.35s ease,
+    border-color 0.35s ease;
+
+  &:hover {
+    transform: translateY(-6px);
+    border-color: color-mix(in oklab, var(--ocean-cyan) 45%, transparent);
+    box-shadow: var(--shadow-glow);
+  }
+}
+
+@utility text-gradient-ocean {
+  background: var(--gradient-ocean);
+  background-clip: text;
+  color: transparent;
+}
+
+@keyframes wave-drift {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes float-bubble {
+  0% {
+    transform: translateY(0) scale(1);
+    opacity: 0;
+  }
+  20% {
+    opacity: 0.7;
+  }
+  100% {
+    transform: translateY(-90vh) scale(1.35);
+    opacity: 0;
+  }
+}
+
+@keyframes swim {
+  0% {
+    transform: translateX(-10vw) translateY(0) scaleX(1);
+  }
+  50% {
+    transform: translateX(50vw) translateY(-24px) scaleX(1);
+  }
+  100% {
+    transform: translateX(110vw) translateY(0) scaleX(1);
+  }
+}
+
+@keyframes pulse-glow {
+  0%,
+  100% {
+    opacity: 0.55;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+@utility animate-wave {
+  animation: wave-drift 18s linear infinite;
+}
+
+@utility animate-bubble {
+  animation: float-bubble linear infinite;
+}
+
+@utility animate-swim {
+  animation: swim linear infinite;
+}
+
+@utility animate-pulse-glow {
+  animation: pulse-glow 3s ease-in-out infinite;
+}
+
+/* Accessibility: honour a reduced-motion preference.
+   The canvas background stops itself (it renders one static frame), and this
+   neutralises the remaining decorative CSS and entrance animations. Transitions
+   are collapsed rather than removed so focus and hover states still read as
+   deliberate rather than broken. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

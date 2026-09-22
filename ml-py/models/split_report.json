@@ -1,0 +1,965 @@
+{
+  "classes": 215,
+  "dropped_classes_below_minimum": {
+    "Decapterus_Macrosoma": 15,
+    "Decapterus_Russelli": 14,
+    "Sardinella_Albella": 16
+  },
+  "raw_images_after_exact_deduplication": 31874,
+  "invalid_or_unsupported": [],
+  "duplicate_hashes": {
+    "abc2ee4bdffe0ede8cf79191452a4f116ad59811204925694bbb90b35468a202": [
+      "Acanthaluteres_Spilomelanurus/Acanthaluteres_Spilomelanurus_0029.jpg",
+      "Acanthaluteres_Spilomelanurus/Acanthaluteres_Spilomelanurus_0038.jpg"
+    ],
+    "4997825829a7b2ebabdbe77513796b7772a8a4570edbacabc97e6fa45bfa480a": [
+      "Achoerodus_Viridis/Achoerodus_Viridis_0007.jpg",
+      "Achoerodus_Viridis/Achoerodus_Viridis_0062.jpg"
+    ],
+    "b39c2f000e7a001ea2518f498907cab15a08f09da9a0d8e15c6e1b8330149cd6": [
+      "Achoerodus_Viridis/Achoerodus_Viridis_0013.jpg",
+      "Achoerodus_Viridis/Achoerodus_Viridis_0082.jpg"
+    ],
+    "0e0329bbb367bcdb10aaa61d5f1f2ebfe9c6ee0cfcf9c9d61987580b85d19db2": [
+      "Achoerodus_Viridis/Achoerodus_Viridis_0014.jpg",
+      "Achoerodus_Viridis/Achoerodus_Viridis_0127.jpg"
+    ],
+    "9c40200e7194908722e907e9eeff93aed3ad715d03a756f2cfc56ff25dad2c27": [
+      "Achoerodus_Viridis/Achoerodus_Viridis_0024.jpg",
+      "Achoerodus_Viridis/Achoerodus_Viridis_0125.jpg"
+    ],
+    "16ee6fb354e2bc6ca46c5c9e5a1f0574f840b56aad497075b56a850e76e2c47c": [
+      "Achoerodus_Viridis/Achoerodus_Viridis_0029.jpg",
+      "Achoerodus_Viridis/Achoerodus_Viridis_0105.jpg"
+    ],
+    "42dcc3631230b70da67415a26f891e4ef7d1a2e72f351fdecb9dcc1c0ab51b83": [
+      "Achoerodus_Viridis/Achoerodus_Viridis_0032.jpg",
+      "Achoerodus_Viridis/Achoerodus_Viridis_0090.jpg"
+    ],
+    "67bd86bf9777eed25132c462178a21077959b00a4e7b912b1d3390c28d258c87": [
+      "Achoerodus_Viridis/Achoerodus_Viridis_0040.jpg",
+      "Achoerodus_Viridis/Achoerodus_Viridis_0135.jpg"
+    ],
+    "d6b6d504f2828d0469d91279a980e73e72b4fc4c78ee2f2afbed4e1736d7242f": [
+      "Achoerodus_Viridis/Achoerodus_Viridis_0043.jpg",
+      "Achoerodus_Viridis/Achoerodus_Viridis_0152.jpg"
+    ],
+    "306b64258f4ac1dc6a0db1c8fc0aa97731d8a10d5ed885375ee3ee26e355cfe4": [
+      "Achoerodus_Viridis/Achoerodus_Viridis_0044.jpg",
+      "Achoerodus_Viridis/Achoerodus_Viridis_0148.jpg"
+    ],
+    "3e009e6749c9305eb0b808ac0ec844d354cc07839dc1114fcfe6c1b10e9e3518": [
+      "Achoerodus_Viridis/Achoerodus_Viridis_0047.jpg",
+      "Achoerodus_Viridis/Achoerodus_Viridis_0050.jpg"
+    ],
+    "36786ccd53c895b94b0f86a1a630db375eece2118069e35d5cb9c402d99d3c67": [
+      "Achoerodus_Viridis/Achoerodus_Viridis_0053.jpg",
+      "Achoerodus_Viridis/Achoerodus_Viridis_0159.jpg"
+    ],
+    "bdaae46198806de6cb48cfb4a2d83166e790551e5a47a21c54dc1564f9b9dae1": [
+      "Achoerodus_Viridis/Achoerodus_Viridis_0057.jpg",
+      "Achoerodus_Viridis/Achoerodus_Viridis_0134.jpg"
+    ],
+    "977ac83162be37375bc37ecc6d28a2163ac956cf859d3f4e5360451a008bedf6": [
+      "Achoerodus_Viridis/Achoerodus_Viridis_0067.jpg",
+      "Achoerodus_Viridis/Achoerodus_Viridis_0108.jpg"
+    ],
+    "ee1c7842d05152a29e5e169c4977862310acb277c9104ccf153aa7b168086159": [
+      "Achoerodus_Viridis/Achoerodus_Viridis_0077.jpg",
+      "Achoerodus_Viridis/Achoerodus_Viridis_0133.jpg"
+    ],
+    "6fbcf7a040ea905b5ce2ac94a6bd87a21a97d8e4a83cd5f4beaa56ba293cd57e": [
+      "Achoerodus_Viridis/Achoerodus_Viridis_0080.jpg",
+      "Achoerodus_Viridis/Achoerodus_Viridis_0103.jpg"
+    ],
+    "5b17cdf4323028a439ff8ff89e5aabeb160de37af5f4faa8ae1a70e21d5722c6": [
+      "Aluterus_Scriptus/Aluterus_Scriptus_0012.jpg",
+      "Aluterus_Scriptus/Aluterus_Scriptus_0073.jpg"
+    ],
+    "c8322d48d90e7fcb657d1179609c35419ed884e20d30e0efa50b1fd2cd6fb307": [
+      "Anampses_Melanurus/Anampses_Melanurus_0038.jpg",
+      "Anampses_Meleagrides/Anampses_Meleagrides_0147.jpg"
+    ],
+    "43fc8b3185b7659d1990cf4709b76b5719a70fde8b96fccaedbbc1219a298386": [
+      "Brachaluteres_Jacksonianus/Brachaluteres_Jacksonianus_0010.jpg",
+      "Brachaluteres_Jacksonianus/Brachaluteres_Jacksonianus_0116.jpg"
+    ],
+    "1f3806936248591d73acbe62ed37fcfe558e79b2a9110fee6149cdeed946c603": [
+      "Cantherhines_Dumerilii/Cantherhines_Dumerilii_0085.jpg",
+      "Cantherhines_Dumerilii/Cantherhines_Dumerilii_0151.jpg"
+    ],
+    "0bd5f4a680ea47b705e61557a806465761449eeb8343d61cb2770ac741572c31": [
+      "Cantherhines_Dumerilii/Cantherhines_Dumerilii_0088.jpg",
+      "Cantherhines_Dumerilii/Cantherhines_Dumerilii_0128.jpg"
+    ],
+    "a6283b5bb06c0119fce6859dee96a03ec3dca41611244700a8a4728f77466d16": [
+      "Carangoides_Orthogrammus/Carangoides_Orthogrammus_0012.jpg",
+      "Carangoides_Orthogrammus/Carangoides_Orthogrammus_0156.jpg"
+    ],
+    "64616aa61921d438259ad783e3cfec8817eebd94d5d879387c707187dcf57638": [
+      "Caranx_Lugubris/Caranx_Lugubris_0041.jpg",
+      "Caranx_Lugubris/Caranx_Lugubris_0101.jpg"
+    ],
+    "597c51d137f8bf8254676d6813d72b86f1be731e24cb30e6b5a2f3f50fc6dacb": [
+      "Caranx_Melampygus/Caranx_Melampygus_0028.jpg",
+      "Caranx_Melampygus/Caranx_Melampygus_0101.jpg"
+    ],
+    "4713e7dfc7ba9aa692244c10f96c5a83829efe5d71c2f89364f06831be9a1160": [
+      "Caranx_Melampygus/Caranx_Melampygus_0048.jpg",
+      "Caranx_Melampygus/Caranx_Melampygus_0157.jpg"
+    ],
+    "d4d544a2e58ff26d57675f6a97ce1781bbf9c23f74f72e4b29a0daacdcfbf616": [
+      "Carcharhinus_Albimarginatus/Carcharhinus_Albimarginatus_0006.jpg",
+      "Carcharhinus_Albimarginatus/Carcharhinus_Albimarginatus_0029.jpg"
+    ],
+    "209f982bea9a07d974acc87c22e23ff25fade2764b779df2293c2a5b0c243d9a": [
+      "Carcharhinus_Obscurus/Carcharhinus_Obscurus_0000.jpg",
+      "Carcharhinus_Obscurus/Carcharhinus_Obscurus_0038.jpg"
+    ],
+    "587431ff10fa6ddec32dff2e0325fa5a6f50856156ae6189ed8f1b90288f22cc": [
+      "Carcharhinus_Obscurus/Carcharhinus_Obscurus_0051.jpg",
+      "Carcharhinus_Obscurus/Carcharhinus_Obscurus_0157.jpg"
+    ],
+    "c1c17195a8162d7a832469aa79169ee998badb2270cb439ff64e483a821bb2a6": [
+      "Centroberyx_Affinis/Centroberyx_Affinis_0093.jpg",
+      "Centroberyx_Affinis/Centroberyx_Affinis_0111.jpg"
+    ],
+    "0d255e4e781cc4f6e634efed45aa971ab9e5a4fc7a099594df0d823e1323a721": [
+      "Cephalopholis_Cyanostigma/Cephalopholis_Cyanostigma_0032.jpg",
+      "Cephalopholis_Cyanostigma/Cephalopholis_Cyanostigma_0078.jpg"
+    ],
+    "095124875aa388344d79c0aa903afd09ba5fdbe57f5d623f5b4cb2e41a62f16e": [
+      "Cheilinus_Trilobatus/Cheilinus_Trilobatus_0037.jpg",
+      "Cheilinus_Trilobatus/Cheilinus_Trilobatus_0045.jpg"
+    ],
+    "0ee11f26a9184444da87009b4eeefac69eec7d360cdb604c72dd9cb98f6fded6": [
+      "Choerodon_Cyanodus/Choerodon_Cyanodus_0038.jpg",
+      "Choerodon_Cyanodus/Choerodon_Cyanodus_0133.jpg"
+    ],
+    "dc1020d1775a1dcfb8633475c3c20953aae9ea32cbbb491fb3048c67e3fc5096": [
+      "Cirrhilabrus_Punctatus/Cirrhilabrus_Punctatus_0003.jpg",
+      "Labropsis_Australis/Labropsis_Australis_0058.jpg"
+    ],
+    "fee502e71c3861ee8b9ec70fb63e1076115745d5cb1f429938518f7d290a119b": [
+      "Cirrhilabrus_Punctatus/Cirrhilabrus_Punctatus_0078.jpg",
+      "Labropsis_Australis/Labropsis_Australis_0147.jpg"
+    ],
+    "cc06eea8f028547b37b322658b60b6338f9f276a7ebc27b8e5360c5ea84bc717": [
+      "Cirrhilabrus_Scottorum/Cirrhilabrus_Scottorum_0014.jpg",
+      "Cirrhilabrus_Scottorum/Cirrhilabrus_Scottorum_0016.jpg"
+    ],
+    "4f4e0f25fdaf2cf8a3c8ab13f518a25e6ab815cff54a867a24f8ccbd57a8b2fd": [
+      "Cirrhilabrus_Scottorum/Cirrhilabrus_Scottorum_0035.jpg",
+      "Cirrhilabrus_Scottorum/Cirrhilabrus_Scottorum_0060.jpg"
+    ],
+    "dae148077fd6dedc32cdb646bbabc4f950fcb45dd3b273d0ecc9c3ca713b3241": [
+      "Coris_Dorsomacula/Coris_Dorsomacula_0020.jpg",
+      "Coris_Dorsomacula/Coris_Dorsomacula_0098.jpg"
+    ],
+    "1b03d8ed622e6f65013c7399a90d7e039d0c949f446ed0b024837f49e1ff5c1f": [
+      "Coris_Sandeyeri/Coris_Sandeyeri_0102.jpg",
+      "Notolabrus_Fucicola/Notolabrus_Fucicola_0059.jpg"
+    ],
+    "5898e9dec12734bde1e23e21724ace745b1578956d27ac9e31894f0b3d1df4d1": [
+      "Cymolutes_Praetextatus/Cymolutes_Praetextatus_0018.jpg",
+      "Cymolutes_Praetextatus/Cymolutes_Praetextatus_0070.jpg"
+    ],
+    "6352ea0c8a962695e136f3b09f6457a149d681ab3f0100b3a0e7790802e69c72": [
+      "Cymolutes_Praetextatus/Cymolutes_Praetextatus_0040.jpg",
+      "Cymolutes_Praetextatus/Cymolutes_Praetextatus_0133.jpg"
+    ],
+    "38820fb174b7744ed3b2e6911a1b66f689312a50d3b38514c6861301727ddef6": [
+      "Diproctacanthus_Xanthurus/Diproctacanthus_Xanthurus_0018.jpg",
+      "Diproctacanthus_Xanthurus/Diproctacanthus_Xanthurus_0069.jpg"
+    ],
+    "c776616efc4e334fd614eb498a50419075eedf44594eedb62e6383ee180adefc": [
+      "Epinephelus_Hexagonatus/Epinephelus_Hexagonatus_0129.jpg",
+      "Epinephelus_Hexagonatus/Epinephelus_Hexagonatus_0141.jpg"
+    ],
+    "a98729869c7a6344e4bf6287e26f85b187e962d72852831c1ccaa60a99a92eb3": [
+      "Epinephelus_Rivulatus/Epinephelus_Rivulatus_0001.jpg",
+      "Epinephelus_Rivulatus/Epinephelus_Rivulatus_0076.jpg"
+    ],
+    "de04fd6cb47bd25ac0826e4c40ac629c0dcfbe255accac18430cb9617b451e9a": [
+      "Epinephelus_Rivulatus/Epinephelus_Rivulatus_0084.jpg",
+      "Epinephelus_Rivulatus/Epinephelus_Rivulatus_0105.jpg"
+    ],
+    "9712bfc8f6e82453321d01ce4414d4a05ecaba45435bceffd7be4327f9b1f8be": [
+      "Epinephelus_Rivulatus/Epinephelus_Rivulatus_0132.jpg",
+      "Epinephelus_Rivulatus/Epinephelus_Rivulatus_0155.jpg"
+    ],
+    "06fd30a4df2dbb3e9926b751262de28cf2be3f09f3cf8af1c63513a2b9f00c2c": [
+      "Eubalichthys_Mosaicus/Eubalichthys_Mosaicus_0003.jpg",
+      "Eubalichthys_Mosaicus/Eubalichthys_Mosaicus_0118.jpg"
+    ],
+    "c4fcebeade580100d0b89b71ad2dc61cf4de54b2fc785e9e3d2af6e2ef878495": [
+      "Eupetrichthys_Angustipes/Eupetrichthys_Angustipes_0052.jpg",
+      "Eupetrichthys_Angustipes/Eupetrichthys_Angustipes_0155.jpg"
+    ],
+    "ca5256ed105a694dfb9a77f8d0190ab49bad343b16a995107b661d5acaba3000": [
+      "Eupetrichthys_Angustipes/Eupetrichthys_Angustipes_0102.jpg",
+      "Eupetrichthys_Angustipes/Eupetrichthys_Angustipes_0103.jpg"
+    ],
+    "04ad0d5f50bb818ab640b116d4826baafcc04c54a5bdff69618420816274298e": [
+      "Gnathodentex_Aureolineatus/Gnathodentex_Aureolineatus_0113.jpg",
+      "Gnathodentex_Aureolineatus/Gnathodentex_Aureolineatus_0130.jpg"
+    ],
+    "8a020ba32e94c49a77ae0c6df1ec7f6feabc8ac91a6d5d87c8b0d99ef0292889": [
+      "Halichoeres_Chloropterus/Halichoeres_Chloropterus_0029.jpg",
+      "Halichoeres_Chloropterus/Halichoeres_Chloropterus_0134.jpg"
+    ],
+    "3630c81c15dbfd6fa80d47330f152a0d2ca0aea6bad500c79c8ddaca6f80143f": [
+      "Halichoeres_Hortulanus/Halichoeres_Hortulanus_0006.jpg",
+      "Halichoeres_Hortulanus/Halichoeres_Hortulanus_0116.jpg"
+    ],
+    "8ed17f5bcf098d3ae4850558c7ead78ee3807f929a6bc7fc391a96976a811b4d": [
+      "Halichoeres_Leucurus/Halichoeres_Leucurus_0032.jpg",
+      "Halichoeres_Leucurus/Halichoeres_Leucurus_0051.jpg"
+    ],
+    "7a36e5cee1f917908c86f4bca2f9ed3fccaae173a2cc326f99bbeaa94f864280": [
+      "Halichoeres_Marginatus/Halichoeres_Marginatus_0007.jpg",
+      "Halichoeres_Marginatus/Halichoeres_Marginatus_0060.jpg"
+    ],
+    "c9a62598f722c9906507675f6c08be9753feba60fa0a009401ffdf4354b3e1cd": [
+      "Halichoeres_Nebulosus/Halichoeres_Nebulosus_0001.jpg",
+      "Halichoeres_Nebulosus/Halichoeres_Nebulosus_0099.jpg"
+    ],
+    "972bfba67e65f135cab648ea57b15fbe3de26a6b0070f2c30a88e84918f96397": [
+      "Halichoeres_Nebulosus/Halichoeres_Nebulosus_0071.jpg",
+      "Halichoeres_Nebulosus/Halichoeres_Nebulosus_0150.jpg"
+    ],
+    "8d28ab7157a9213f192b205724efdb85c6ff88a4edef9977f9e6bd851a2ffd99": [
+      "Halichoeres_Nigrescens/Halichoeres_Nigrescens_0035.jpg",
+      "Halichoeres_Nigrescens/Halichoeres_Nigrescens_0134.jpg"
+    ],
+    "2e524db02032b1cc05fa5f8df06aef2530aa0036c3db1c4d8919b36b2bfeae80": [
+      "Halichoeres_Scapularis/Halichoeres_Scapularis_0031.jpg",
+      "Halichoeres_Scapularis/Halichoeres_Scapularis_0135.jpg"
+    ],
+    "103d78e9147bf60ae9207431779d59d897c6bff1afe6ee2c3b25cdbcf82bc4d7": [
+      "Hologymnosus_Annulatus/Hologymnosus_Annulatus_0002.jpg",
+      "Hologymnosus_Annulatus/Hologymnosus_Annulatus_0009.jpg",
+      "Hologymnosus_Annulatus/Hologymnosus_Annulatus_0159.jpg"
+    ],
+    "086290529e2909cb20ed8dff17a704c1ab08137e9c70b9e1ddba7a5c9ef8b30b": [
+      "Istiophorus_Platypterus/Istiophorus_Platypterus_0064.jpg",
+      "Istiophorus_Platypterus/Istiophorus_Platypterus_0089.jpg",
+      "Istiophorus_Platypterus/Istiophorus_Platypterus_0122.jpg"
+    ],
+    "a7811353ba6e70dee324dc063cad71f22add6b2a3c35e1608363a8722a259411": [
+      "Lethrinus_Xanthochilus/Lethrinus_Xanthochilus_0130.jpg",
+      "Lethrinus_Xanthochilus/Lethrinus_Xanthochilus_0131.jpg"
+    ],
+    "317ab20a176222206a2ac18b3750387adbcdea518db6601569a1db2da0a7656b": [
+      "Lutjanus_Argentimaculatus/Lutjanus_Argentimaculatus_0003.jpg",
+      "Lutjanus_Argentimaculatus/Lutjanus_Argentimaculatus_0128.jpg"
+    ],
+    "351589a7ef7dc37a035ba8e184c133acb810946c7b7dd31d1f2c85b47801e700": [
+      "Lutjanus_Biguttatus/Lutjanus_Biguttatus_0089.jpg",
+      "Lutjanus_Biguttatus/Lutjanus_Biguttatus_0141.jpg"
+    ],
+    "460f517464d45fec4e73c4508d01b38b7a2572cd0235945001d4e3fb58bdcf03": [
+      "Lutjanus_Biguttatus/Lutjanus_Biguttatus_0151.jpg",
+      "Lutjanus_Biguttatus/Lutjanus_Biguttatus_0156.jpg"
+    ],
+    "ca88f184ce8efa80baf740b3de0697240e5169d5ff0b5d3ce4ed155d70166251": [
+      "Lutjanus_Carponotatus/Lutjanus_Carponotatus_0095.jpg",
+      "Lutjanus_Carponotatus/Lutjanus_Carponotatus_0105.jpg"
+    ],
+    "4778fe144dd64ff1efa38cc130e817bb61a105551290a8ce192ec2d0a15bb6ce": [
+      "Lutjanus_Fulviflamma/Lutjanus_Fulviflamma_0035.jpg",
+      "Lutjanus_Vitta/Lutjanus_Vitta_0067.jpg"
+    ],
+    "cdc34813129b9c28d0a71b00381cd3b92494a4f3fdd4143ea3a7847964f68f76": [
+      "Lutjanus_Fulviflamma/Lutjanus_Fulviflamma_0133.jpg",
+      "Lutjanus_Vitta/Lutjanus_Vitta_0002.jpg"
+    ],
+    "d22164b165383892cc8ba415fe426d6def7c1293e5af37c5b9a6be8705a5ccb4": [
+      "Lutjanus_Gibbus/Lutjanus_Gibbus_0007.jpg",
+      "Lutjanus_Gibbus/Lutjanus_Gibbus_0098.jpg"
+    ],
+    "6bbc8aadb35979cbcce6edca5bda023c0fd5502154bab82a2463482ba597e679": [
+      "Lutjanus_Gibbus/Lutjanus_Gibbus_0062.jpg",
+      "Lutjanus_Gibbus/Lutjanus_Gibbus_0076.jpg"
+    ],
+    "787c7f9f1672ed6d9c56e181c68cc0ed25ae904c3d29fbc7c8e31df0095e6c6e": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0000.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0000.jpg"
+    ],
+    "97f59bd4cf52e19acf03641214d5d7c6f2d4ea34bceb8b60381dcb7059812d07": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0001.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0001.jpg"
+    ],
+    "b88486d5abf3118dda940c0b6eb614f1544d9ab727622afccdb53bafb5bcc4cd": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0002.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0002.jpg"
+    ],
+    "e09dbc083e5f2bbf6423c89b75bc00afe84743473bf8cd1646ca28cea885a5ba": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0003.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0003.jpg"
+    ],
+    "1297d6f0b26f2deceedd561f9008111d9da69be6a5ae8d73e192ca439eacaa99": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0004.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0004.jpg"
+    ],
+    "a3b39bd1323c2961af915cfac277939c05155aadee453a6b96654ec9cb51c1bc": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0005.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0005.jpg"
+    ],
+    "19b843d0efe37dcac32f9185917cc21c7440fde58ff8d09abe7f6662ca0879d6": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0006.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0006.jpg"
+    ],
+    "3053e520fd87f61ed8cb8d1317ad89d3e84fc341d545199b238c4ba743dc8400": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0007.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0007.jpg"
+    ],
+    "8bc5555e4ebb508861cac576975562266f9066c7ba0a3880f5236fd72ea3ff0f": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0008.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0008.jpg"
+    ],
+    "d799de35edb8f0bf1ad6bea7e3a1a47d7e8476de4899fb1c9f47f89b22eea599": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0009.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0009.jpg"
+    ],
+    "63de95bd43428cd7093452cf1a400ef96c93d768ec1f0caff5b841ac47500a40": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0010.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0010.jpg"
+    ],
+    "1c74d345cf2afe7bb279d912c74e32508792aaeb77360c95ce71aec21045884e": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0011.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0011.jpg"
+    ],
+    "8ad1b7802a7ffc5a8fe370cd536107852c95b2e5c2edc65fcd15ac1989b8d4e3": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0012.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0012.jpg"
+    ],
+    "c888d66408d782e11eaa57c3e52f68457207885969fae6082c27c5993c170cfa": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0013.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0013.jpg"
+    ],
+    "052c6e46510798241780cc8cbd5435f4b6d81651597bad7442e045903a54cc24": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0015.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0015.jpg"
+    ],
+    "d8dcd975bfe1bc1aa65aa7600a1a762291c7c7bdcdd299774b9b32b0f43d36f7": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0016.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0016.jpg"
+    ],
+    "87cd6e49ddeff2654466c7f08a4d6f5abc11edf64d8e3b3fcac1ab06c3551ecd": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0017.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0017.jpg"
+    ],
+    "595af618fbf667e92fbea1db4785bf6a703b2675bae6c0daf2be8fdfdaf10035": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0018.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0018.jpg"
+    ],
+    "9cb520ae30e44f1802c2122068508aba9ab3623527c87678efbc8c8698a4f8ea": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0019.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0019.jpg"
+    ],
+    "7431db2cdb02a96f14fa670319d4693eba0051eb92b21524707186ec27b940c3": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0020.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0020.jpg"
+    ],
+    "f988ecaf8d7b503ce82814cf6caeb365089fe376e0868edfd0d08e293861b22a": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0021.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0021.jpg"
+    ],
+    "7240901e323b2027474ad1987ef71385bf3d32f9dd36bc463d625fea30e3c3f4": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0022.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0022.jpg"
+    ],
+    "bf3c60ec98c4745168387900c48d4225c4e1f24165d03f01307746519cc8dc39": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0023.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0023.jpg"
+    ],
+    "da30780e81da9ab422f9d16eb8fb3a9b9f43b691ea99e7be0b87af19295a053c": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0024.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0024.jpg"
+    ],
+    "3422d9b19784f046f942ded6bb57a7f5c41c66aabdfd2cd406cc841f4614070d": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0025.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0025.jpg"
+    ],
+    "7b23f5f928441fdd1257ece53247737730f58c170831b3bdb7298f6f8d287f39": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0026.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0026.jpg"
+    ],
+    "cc42074e61745451e182419e7ffd506ec1e1a698451cdc5e5eef9e230eb87902": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0027.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0027.jpg"
+    ],
+    "04ee0e964a01161739cc364446476aa87e59f9f1763c10a16ca8df5cde08c3ef": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0028.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0028.jpg"
+    ],
+    "0e9d91aef836ce219cd7df729c1fe86dafc57db0c2845232f2663fe9413cd4ce": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0029.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0029.jpg"
+    ],
+    "a35b09818597f46b94b68ef1cf3e194b4d037e8929c99e0c06c1b7770f5ea805": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0030.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0030.jpg"
+    ],
+    "5beba54fb2782ebd8500ceb95f2970cb1099e2e34ac6c6bfb87b98d00d21c2d7": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0031.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0031.jpg"
+    ],
+    "60c998733c6d953bb49ba83fbf0ac301c7fff66026d20caf6d6ee0bcd9a2690e": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0032.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0032.jpg"
+    ],
+    "37ba228fc39c3e94fa84047e58f833b8455bf24c5949e45596ad921065a7c023": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0033.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0033.jpg"
+    ],
+    "10b1bda6745355c615b9f36ac191305acad3ced9abb97a5fc9f385f8a5afd4e1": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0034.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0034.jpg"
+    ],
+    "296a1e7bfbbb3aec5fffdf4bf6d917d89cc32da540d2d27344b5fba42e5e655b": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0035.jpg",
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0144.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0035.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0144.jpg"
+    ],
+    "76c4f06263701e15bb26dd3ae55384f70b1416169c40ebc30f9b18051bd2ba12": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0036.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0036.jpg"
+    ],
+    "5ac7b4998d0fd8e33e51568a6801f51529b870d8eccda120ec4dac75de39adbe": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0037.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0037.jpg"
+    ],
+    "7d75c1a0ecc20b94243fa358c5a12d87cc0c53915fff811dc647b5499a0c5ed9": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0038.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0038.jpg"
+    ],
+    "c2078d3bb2cabdf383d8c8d40e43d16e0776b6b3508ade7be0e429eed09d7da8": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0039.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0039.jpg"
+    ],
+    "a7ebbe3bb2439922d73eb10cf815835c0fa1351ec1546f880c0548c44d4bfaad": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0040.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0040.jpg"
+    ],
+    "003508eaaa263fb9ba505f279327b7141acfe704d89e38ac520ce51e69500a0b": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0041.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0041.jpg"
+    ],
+    "09d8283d905520a0eae4ee254e6e4cd6fd4d7d2649e860a49925b05bf70e332d": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0042.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0042.jpg"
+    ],
+    "6c3afcfedd9e16bb200976607fd78ca969d7bf0ea4355f636285fc7acf0c87e6": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0043.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0043.jpg"
+    ],
+    "ab613f3756385e7f779eccd873146475f1f0fe6352293ede1e15effea7770322": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0044.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0044.jpg"
+    ],
+    "3b5bc3bb490a85ee9f817393c7fdd7ff10984d84adf4548bcce913e6150b5bec": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0045.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0045.jpg"
+    ],
+    "261b963f3bfe10705f4fc8f905355a616200558011084bd15d8048315c562e22": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0046.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0046.jpg"
+    ],
+    "a1eff0ef10f8ead88262f6b8801f126818eb11e064a8dd8568e51482bb789c75": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0047.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0047.jpg"
+    ],
+    "98b11c043ff6efcd0f9a2bb0c85b916458bd257f4c26ac20e0297ee2815d7071": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0048.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0048.jpg"
+    ],
+    "d33343dfc7842a714afa22ede30dce876a8eccf6157c54317f636e63585f840d": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0049.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0049.jpg"
+    ],
+    "a5633e90d1868263f6541de299213f30b96f8bec8b89af05129fab6f6c799fcf": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0050.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0050.jpg"
+    ],
+    "3a086bf0e70b496b7285e90ceabfd8103daa19297424c75d1c7ec99f45c50d3f": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0051.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0051.jpg"
+    ],
+    "6c3687107d67a311513b6fa545d54102a81c152922478a68f2db5f124be3366b": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0052.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0052.jpg"
+    ],
+    "804bbc59e37a56f52a30a84f38ff40a65062e1f5c30faf96902fbad7d6e73af8": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0053.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0053.jpg"
+    ],
+    "9389abd65c6df9a059a043ccacc2eb1160b9b0a1271b5e25fc666fa84244ddac": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0054.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0054.jpg"
+    ],
+    "3530746901003e3faa5e38b525397b9cd35e202c5db77186d2e9326033d4b835": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0055.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0055.jpg"
+    ],
+    "39d5e4844833a46f455ee6240fa08ff984af6052097923a697d191eb6eb20198": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0056.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0056.jpg"
+    ],
+    "aa62d9e6f166686dae0e98a7e22f6bec2ebae90d880e079fb9f72582da066f0b": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0057.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0057.jpg"
+    ],
+    "0010eb9339a1fbffd1b3c678a7be5c2fb9c526c6e64dff39a9cec2f61417f845": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0058.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0058.jpg"
+    ],
+    "ccf7a3c1a855cae10485c48fdc5cf57ba39b386a6fbef093714b7060e128483c": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0059.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0059.jpg"
+    ],
+    "a78a143a244a27d80a9217f9212ac81bd4e65bc50517b5c20b538d5e779ba8e0": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0060.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0060.jpg"
+    ],
+    "5430bbd9a01548443ad8aca21a0509de57aba5ef6ebc025fa2ccde86d98fc1e6": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0061.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0061.jpg"
+    ],
+    "2f751010e7d087126253b15e8fc260a1750751231eaafcca24f3d8114c8c25c6": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0062.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0062.jpg"
+    ],
+    "d4ceb83a29f21a1b9e8c1a22dd5d11bf068f86e67a7b518ebef0f67542b901f6": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0063.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0063.jpg"
+    ],
+    "7c8331774cd47a72f9880d26b8941527608e9a9a635b650a32feea3561491576": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0064.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0064.jpg"
+    ],
+    "d3b757e6e4524f04beaf9f9cf0ca474b780f9e83327dc2aa4565e615c247f5c3": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0065.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0065.jpg"
+    ],
+    "b8116bb059361eb7d5659dfd698802330e851fea991220f1c93ad21bbabeb741": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0066.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0066.jpg"
+    ],
+    "def7b0240b6ee53ba186f4c20ee0ac261c48ac4044292a79457a14bd77ee1bf5": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0067.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0067.jpg"
+    ],
+    "a682416359540d7c1afcd5b280f9e34e72ec3bce69163db391318aec86b843b4": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0068.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0068.jpg"
+    ],
+    "8ecedb8b35a46dcaa7456da18acd593c269023fc35d674a4753fbe48f5dda328": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0069.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0069.jpg"
+    ],
+    "bb1e49e9c7b5a981c05d027571fb0b0c73de76f7d89ae48ec8a4e85dcabf1127": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0070.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0070.jpg"
+    ],
+    "8c6fd16c86bc88a1fbca0f7cf57a15747360392dd30b65273efa4a9b7a15b12a": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0071.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0071.jpg"
+    ],
+    "e5a9c2e2d5527b41e5d22a15c69eb895289b1d7d3c0b2d952fe752810042fac2": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0072.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0072.jpg"
+    ],
+    "1a13cae7e5b1ea257e5b5dc4c6ef43e1908ddbfc4661d13c6495b317c169bf36": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0073.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0073.jpg"
+    ],
+    "6a6540e667039892ae57d8ecd515f1c37d8b7c84c79e9f6700bfc8603f034a6e": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0074.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0074.jpg"
+    ],
+    "3ed6b385fd6d53dabe6af040f3d533b5c18f53a34d8c723025abaadbed033196": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0075.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0075.jpg"
+    ],
+    "00d14ffb90be6a605add93183ea41b688825150fd8f80ca2f4451ec5e2bb544f": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0076.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0076.jpg"
+    ],
+    "6e8dbcc58677294a026247a878d12cd19aec9c13f4ed5bfebde818222a331ee3": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0077.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0077.jpg"
+    ],
+    "9870a7afe2a7e2bab04910930e312182c3074640468a62155b47759a977235b2": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0079.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0079.jpg"
+    ],
+    "d55cf442dce253be04dd9ecb86035daa34b6e496ef7ace03add4f32df466af0d": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0080.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0080.jpg"
+    ],
+    "6f3426c6d644347868c0944ae872223439f813220fbbb67e0ba2db38e5fb6756": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0081.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0081.jpg"
+    ],
+    "aa3c995541b3c518272c46a1cdc354455dfc504fbd8e2b5b2e3dea003bee81b7": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0083.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0083.jpg"
+    ],
+    "7e1c1246085b64654eaaba1140e0acafa56e532e03087a9926ae677751437918": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0084.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0084.jpg"
+    ],
+    "4fbc78be67bbe4d1715bc1f59c7a456539d5dc32dda7e786981ab906f316a5fd": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0085.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0085.jpg"
+    ],
+    "3c3442b3451a64e6fefd158c21604d85e1331f89dad1e3ba9c0409b6953f462a": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0086.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0086.jpg"
+    ],
+    "c18180664142aeb0260c97e5be036e712d4c5118cd23d2692e39a6b34df3509b": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0087.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0087.jpg"
+    ],
+    "85e21caa18514d6196d789bf115b3e77ff1394aa3290b00d3b17ece5075fbe52": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0088.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0088.jpg"
+    ],
+    "3aeddb5a0451924fa74cb19e69304c85dcb147fa345acf661cde7cbff1e81e0b": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0089.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0089.jpg"
+    ],
+    "1484a0166541bd4c30ee7974dd89db2e83f6e7ed22eba1b413773793bf7b8392": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0090.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0090.jpg"
+    ],
+    "45775c3bf0078a321eb50cf1761bd1b1f497f82521750d2bf81a4140ad821a32": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0091.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0091.jpg"
+    ],
+    "9f79b51d54a342ba06d4a2cd32c5b30618a73601f4711d526c5a3a7fe492f6f7": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0092.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0092.jpg"
+    ],
+    "40ad520b8d63aa25732d73f5e067ba9e4a220f830a76eb48eca8edefe84b2763": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0093.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0093.jpg"
+    ],
+    "a607c638d4897a761f0a7725dc9e4d9f41b4ea0bcf7bb4ed9a56ba296b0aac06": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0094.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0094.jpg"
+    ],
+    "b2e798bee6058293e0c7ea28d3e0d9c6ac9ab2e27721f896991f5102d21f1861": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0095.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0095.jpg"
+    ],
+    "8d60eba3db6bc8705a6731b9731f33916490f1f9d6664ccc123aeab2b478fd8d": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0096.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0096.jpg"
+    ],
+    "a150dcea831b2ec62a1f324408fa726ca25c39fb13993dfb89a222e65c407b78": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0097.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0097.jpg"
+    ],
+    "ec8635103f5347c81d6e2c7a15bd7523b0f7c476dfd1232c34c84b38c6c87889": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0098.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0098.jpg"
+    ],
+    "80a394abcc8d189accfe72f338c1b2005e9ab59fb2584aa36886d9629481d435": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0099.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0099.jpg"
+    ],
+    "2a9e69111cb6f15492ea681e909725fc536ca5763fa0af6b1dbcf1f8315ceb4f": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0100.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0100.jpg"
+    ],
+    "830065fc6a064052788ae1b6dacd9fe495e715bf295a9bf71e90f5ddd84ae1f1": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0101.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0101.jpg"
+    ],
+    "c0bd8ab787d40f354d3d3f24f63d9a4b4204d97e0a86dbf9667da056784d6a5a": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0102.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0102.jpg"
+    ],
+    "b54b9d61c99618d73384416ef0200095aad3166ef753df640584aa6ddb315a14": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0103.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0103.jpg"
+    ],
+    "22bc80cba03884eefb46dc2f6e76512ab97ea0b5da2eec0e5f904587b8df03e7": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0104.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0104.jpg"
+    ],
+    "c323f5bf9c7710ef85a2529acb6fc16ccdc65098cbc48aa7248e1d77d7dab753": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0105.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0105.jpg"
+    ],
+    "8a35fa988564314cd6743267337e36cc024b17c926967b97b69c17640924c7d6": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0106.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0106.jpg"
+    ],
+    "d5959f5f737f9c82f4e7a46ab3fdd9b03b7297e689517f41dd6f9f01c064e922": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0107.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0107.jpg"
+    ],
+    "a2881c2f3fb08b02b0f5c51042cd38b396ba4d114c0da66360a69407824456d1": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0108.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0108.jpg"
+    ],
+    "badd163ae6a45d37c7dc26a0b5e08ca4e8a40eca42d73197369dc1397392e7fe": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0109.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0109.jpg"
+    ],
+    "5a39ca9ad3db47799924f9291c97f3220f5c0bd0c9cc10c5b36ee343cd5e4342": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0110.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0110.jpg"
+    ],
+    "bce1d93b1e13f03c1c594fb18f53f197ee513e57f232dc2f7e27517647f7fa63": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0111.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0111.jpg"
+    ],
+    "fd4f14a86c4703db756c42c3e22e7674d93031731470ac71a003aed9194a257b": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0112.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0112.jpg"
+    ],
+    "ac44454b8c5e66e8823613845adabe6857e45a257cf1a4b5a22fc32521ae9b85": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0113.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0113.jpg"
+    ],
+    "fb815abb68cdaff990ce94c6b9aa10859c9487ab1e176d484568bea6cd46cff4": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0114.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0114.jpg"
+    ],
+    "1e3521e71bdcd4247b79ce24ad2cd194a5eceb24573907b1629721569a39d549": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0115.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0115.jpg"
+    ],
+    "a24c41461be7747f8e8c1ee68ad19dbfff5e832482b06afd6165ffbf19c86f3e": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0116.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0116.jpg"
+    ],
+    "4012e1969b9dfeb03623a98cc999f1a844b5883a6712fef265d89ff86b8dc9f4": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0117.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0117.jpg"
+    ],
+    "796805e27504ccf7629c0ee08e6650ffaad9295d8c8e368d267b69f9dc193658": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0118.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0118.jpg"
+    ],
+    "d1d32cf1a076c8168cbac7ded4bfc143f8ceb36d473044540c1d2531bcf8a264": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0119.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0119.jpg"
+    ],
+    "340dec17679e6b249ed230e5cf3ab8eac09cadae1d08b56e05386307d331b424": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0120.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0120.jpg"
+    ],
+    "ab9c3da5807ee65bbb936835a6187c7f37e70becb966fc00235ffdaf31ffe561": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0121.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0121.jpg"
+    ],
+    "92af49a30a99a0859d361013a22e7df492bb925b66dff73cfad55a73d16e4c49": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0122.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0122.jpg"
+    ],
+    "ddc950346276f45dff7b6d43172a91ff65168af5553ffe47e0a02dc5ffb5c7b0": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0123.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0123.jpg"
+    ],
+    "f84546ef1531f482389eb66832949c4b774d87793d700cd98a2f9b572b0cf181": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0124.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0124.jpg"
+    ],
+    "fe9b88c9241a637fd09ab09b746b8b3d4651bc9d8e5eb19d92e3f9a2a5cf89c9": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0125.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0125.jpg"
+    ],
+    "17f99ad0bcabbe2a541df676ec0485d38d79e3fa4a166f10c915fdfef1ef3185": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0128.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0128.jpg"
+    ],
+    "6e92a3c0b89c3240e409a38e9b7b8a66868239a8ff3140fcba7965d78d519122": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0129.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0129.jpg"
+    ],
+    "bd145e5ffee5e15718c396315171341e3bc99dbbfe132f85204b4cbccfc98cfa": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0130.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0130.jpg"
+    ],
+    "5aede40abc8d42d9b2afc5112709727f4b68a8e8692eab1170ea7095b4cb7d08": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0131.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0131.jpg"
+    ],
+    "aa70d23c06310cad69bfe68bb20077cd33788051bddaa863d86198ed67f24a27": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0132.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0132.jpg"
+    ],
+    "a52c623ea74bce905e47eff6fe5d6a60f9c4f59ffc59760ffe300aafecaa5a7e": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0133.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0133.jpg"
+    ],
+    "0ee252ff1b70b9d4ef77c08be15b78ced5c6dd73977511a8311f740ad0a8c548": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0134.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0134.jpg"
+    ],
+    "fe6fd282576b5ade3b4891af8678f0d1469294c701f35d23d94c7e040b930dd1": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0135.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0135.jpg"
+    ],
+    "9a579fa9d6fe1ebcd4bb1f5e66eeafd73131e5498f4fe1ceaeb93a4eb4f16326": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0136.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0136.jpg"
+    ],
+    "06eafb5e9a70b5057bec97480eec266aae0e8c3df785e1e4fc9354cf1a6c78d7": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0137.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0137.jpg"
+    ],
+    "f546a1ed6b015dda74e0a534b1f6aadfbc93b5b04339ec827f892ff563e49955": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0138.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0138.jpg"
+    ],
+    "c8331792d7e770943abbe1099ba13888c9d5d697d4b525b1a2fd3becfd6a1821": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0139.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0139.jpg"
+    ],
+    "f1aebcf96d7742d38d8d9c2019a681bd18694966b6b4c5f1caf9f01723eee183": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0140.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0140.jpg"
+    ],
+    "a226d124cedac8c90e1f94d8bcb654962ebf9513d703bbd8871b7022c982dd93": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0141.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0141.jpg"
+    ],
+    "fd106ac2a1887c50364844f70a89dda935c0bf75bfab2bd27d0bb2dcb197ed8b": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0142.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0142.jpg"
+    ],
+    "1e7f081aed5ed027ec347578bcb1a3a60b8456c00880b1c37f1859365d07101f": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0143.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0143.jpg"
+    ],
+    "be9fa0a7277ec4f0ccf12bf3b2759bf0778122d67c29867eea404478a9cbb395": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0145.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0145.jpg"
+    ],
+    "168a407ba41f3551a68617cd41d436f65542fbebabfaf6412a3f886212d8c68d": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0146.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0146.jpg"
+    ],
+    "731dc98b540a3182faf2f1159d5f3335daedd2cba4f236b6b2182949ae839859": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0147.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0147.jpg"
+    ],
+    "2bb7543d8fd8e61676699eef7ae36a8b059c11be675d0905eb00ca63f246fd63": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0148.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0148.jpg"
+    ],
+    "490d7eee23fb94ccef5001b12fdc23791953164e28c721865401cfcf97477f2a": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0149.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0149.jpg"
+    ],
+    "f2e63d98d5565c27118615e51ee9fcf5735867a0e481f85e14e75dd6ef150887": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0151.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0151.jpg"
+    ],
+    "4c0dc8dbefe73b82a0a840f2958f83ceace832e4ca1e39784c04f0b4bbf4a259": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0152.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0152.jpg"
+    ],
+    "6e5007ed6884a6f89a26d234bbf8a2915228a910e4d20cafccfd0c245e1cfe9b": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0153.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0153.jpg"
+    ],
+    "fbb7508b7e14ac0ef9f7b28ec2d9f8ac40b082d0a68a7f9bebe49b1b68b2dbfc": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0154.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0154.jpg"
+    ],
+    "13da1e9c76470d85d5d003a39b2cb642a47b0e552325539115b2311005eb300a": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0155.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0155.jpg"
+    ],
+    "9b3d55d33a35e88ff7c9c473b38c2e76696e0f786e550ab05ca2d490533b7354": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0156.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0156.jpg"
+    ],
+    "87fc84208ed72ac76125ca900413d2b5e631167acf71f5a97ff19555b6e7a787": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0157.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0157.jpg"
+    ],
+    "5da7858013db5c75b318158bfc87c2a9b460032bcb597bc9766a75c2e323717c": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0158.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0158.jpg"
+    ],
+    "a03cb6e31dca4785ec50dcddfd7c866731e6609dea9e3004c1c88db609be9065": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0159.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0159.jpg"
+    ],
+    "7e96a0bcbe123cf01ea829c79f46b5a9511332d5aa297a42e834a32795f8d7f2": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0160.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0160.jpg"
+    ],
+    "e6d9b9d378254522407ff6ac3a9cd16f242cdee233c3fc260c7ba368d04e8576": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0161.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0161.jpg"
+    ],
+    "39dca98b7361962db7b1ee5e41768c6e7c87dfad1c32b532715427ed926b2749": [
+      "Lutjanus_Semicinctus/Lutjanus_Semicinctus_0162.jpg",
+      "Lutjanus_Semicinctus_Quoy/Lutjanus_Semicinctus_Quoy_0162.jpg"
+    ],
+    "45cecc1bbbc412b17d8f47164bafef6891e1908dbdbef5f4ed35197514e117ba": [
+      "Macolor_Macularis/Macolor_Macularis_0100.jpg",
+      "Plectropomus_Oligacanthus/Plectropomus_Oligacanthus_0004.jpg"
+    ],
+    "11a26c6a76136d0b36624cc87c4b141c160c2b5f686699d5d6a61178689801c6": [
+      "Macolor_Niger/Macolor_Niger_0010.jpg",
+      "Macolor_Niger/Macolor_Niger_0130.jpg"
+    ],
+    "7b39675bbba96ec3ad3edc75141394512db95b78cef1d737ce2213606a675f16": [
+      "Meuschenia_Galii/Meuschenia_Galii_0020.jpg",
+      "Meuschenia_Galii/Meuschenia_Galii_0064.jpg"
+    ],
+    "ce0c62f965edd02c77a1711afb25dc76d2228a5554bf4c6ee86f0fb2841306f5": [
+      "Meuschenia_Galii/Meuschenia_Galii_0027.jpg",
+      "Meuschenia_Galii/Meuschenia_Galii_0055.jpg"
+    ],
+    "04fe75610b660abe11db048669bf0177f10cd0a9fc0c7fe8fa9efc58e5ce0af8": [
+      "Meuschenia_Galii/Meuschenia_Galii_0105.jpg",
+      "Meuschenia_Hippocrepis/Meuschenia_Hippocrepis_0007.jpg"
+    ],
+    "048c3fb6455ad98ba4ac3af8dc3c5d162abf52c8ebe2dadaed39b98c844c9855": [
+      "Monacanthus_Chinensis/Monacanthus_Chinensis_0093.jpg",
+      "Monacanthus_Chinensis/Monacanthus_Chinensis_0109.jpg"
+    ],
+    "d79cda49522a308ece6d5c729cbc9ad60322ee1f1ab33c1d496d1799d24e7c1b": [
+      "Monotaxis_Grandoculis/Monotaxis_Grandoculis_0136.jpg",
+      "Monotaxis_Grandoculis/Monotaxis_Grandoculis_0160.jpg"
+    ],
+    "89a0a15e2abeadb60787d8b33aef100ca6af937a0fe8c10b9823ef9eccd2718d": [
+      "Notolabrus_Gymnogenis/Notolabrus_Gymnogenis_0026.jpg",
+      "Notolabrus_Gymnogenis/Notolabrus_Gymnogenis_0080.jpg"
+    ],
+    "30b67d272fba4c8ed891853c30dffb078a66222e224fbbd9125f9694891dcb59": [
+      "Plectropomus_Maculatus/Plectropomus_Maculatus_0113.jpg",
+      "Plectropomus_Maculatus/Plectropomus_Maculatus_0153.jpg"
+    ],
+    "1e5f3f68948cd3f6d69038fbba5f5ce55558406bbca846f010a0c8fbd3b3f771": [
+      "Pseudanthias_Rubrizonatus/Pseudanthias_Rubrizonatus_0029.jpg",
+      "Pseudanthias_Rubrizonatus/Pseudanthias_Rubrizonatus_0048.jpg"
+    ],
+    "8fd5a4629a8ef49ac1a9807dd588c2c2d09730080f56a8b116212331ff75f0b7": [
+      "Pseudanthias_Rubrizonatus/Pseudanthias_Rubrizonatus_0043.jpg",
+      "Pseudanthias_Rubrizonatus/Pseudanthias_Rubrizonatus_0094.jpg"
+    ],
+    "f6baddeb7d48125efd7f18765f9185ac172aad470f93edbc29389d9cc062bcdf": [
+      "Pseudocheilinus_Evanidus/Pseudocheilinus_Evanidus_0112.jpg",
+      "Pseudojuloides_Cerasinus/Pseudojuloides_Cerasinus_0025.jpg"
+    ],
+    "c1d9dfc025dc4fe51843c561fe6a58059868bc09e7c2f8afc96acbd3205de146": [
+      "Sardinella_Gibbosa/Sardinella_Gibbosa_0008.jpg",
+      "Sardinella_Gibbosa/Sardinella_Gibbosa_0024.jpg"
+    ]
+  },
+  "insufficient_for_held_out_evaluation": []
+}

@@ -1,0 +1,14 @@
+node_modules/
+dist/
+dist-ssr/
+.output/
+.vinxi/
+.tanstack/
+.nitro/
+ml-py/venv/
+ml-py/dataset/
+ml-py/training/
+venv/
+.venv/
+__pycache__/
+*.log

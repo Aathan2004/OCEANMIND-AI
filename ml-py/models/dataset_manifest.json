@@ -1,0 +1,1070 @@
+{
+  "Acanthaluteres_Vittiger": {
+    "downloaded": 160,
+    "scientific_name": "Acanthaluteres vittiger"
+  },
+  "Acanthaluteres_Spilomelanurus": {
+    "downloaded": 160,
+    "scientific_name": "Acanthaluteres spilomelanurus"
+  },
+  "Acanthopagrus_Australis": {
+    "downloaded": 160,
+    "scientific_name": "Acanthopagrus australis"
+  },
+  "Acanthopagrus_Latus": {
+    "downloaded": 160,
+    "scientific_name": "Acanthopagrus latus"
+  },
+  "Acanthaluteres_Brownii": {
+    "downloaded": 160,
+    "scientific_name": "Acanthaluteres brownii"
+  },
+  "Achoerodus_Gouldii": {
+    "downloaded": 160,
+    "scientific_name": "Achoerodus gouldii"
+  },
+  "Aluterus_Monoceros": {
+    "downloaded": 160,
+    "scientific_name": "Aluterus monoceros"
+  },
+  "Acreichthys_Tomentosus": {
+    "downloaded": 160,
+    "scientific_name": "Acreichthys tomentosus"
+  },
+  "Aethaloperca_Rogaa": {
+    "downloaded": 160,
+    "scientific_name": "Aethaloperca rogaa"
+  },
+  "Alectis_Ciliaris": {
+    "downloaded": 160,
+    "scientific_name": "Alectis ciliaris"
+  },
+  "Achoerodus_Viridis": {
+    "downloaded": 160,
+    "scientific_name": "Achoerodus viridis"
+  },
+  "Anampses_Geographicus": {
+    "downloaded": 135,
+    "scientific_name": "Anampses geographicus"
+  },
+  "Anampses_Caeruleopunctatus": {
+    "downloaded": 160,
+    "scientific_name": "Anampses caeruleopunctatus"
+  },
+  "Anampses_Melanurus": {
+    "downloaded": 120,
+    "scientific_name": "Anampses melanurus"
+  },
+  "Amanses_Scopas": {
+    "downloaded": 160,
+    "scientific_name": "Amanses scopas"
+  },
+  "Anampses_Elegans": {
+    "downloaded": 160,
+    "scientific_name": "Anampses elegans"
+  },
+  "Aluterus_Scriptus": {
+    "downloaded": 160,
+    "scientific_name": "Aluterus scriptus"
+  },
+  "Anampses_Meleagrides": {
+    "downloaded": 160,
+    "scientific_name": "Anampses meleagrides"
+  },
+  "Anyperodon_Leucogrammicus": {
+    "downloaded": 160,
+    "scientific_name": "Anyperodon leucogrammicus"
+  },
+  "Aphareus_Furca": {
+    "downloaded": 160,
+    "scientific_name": "Aphareus furca"
+  },
+  "Anampses_Twistii": {
+    "downloaded": 160,
+    "scientific_name": "Anampses twistii"
+  },
+  "Auxis_Thazard": {
+    "downloaded": 62,
+    "scientific_name": "Auxis thazard"
+  },
+  "Atule_Mate": {
+    "downloaded": 129,
+    "scientific_name": "Atule mate"
+  },
+  "Auxis_Rochei": {
+    "downloaded": 75,
+    "scientific_name": "Auxis rochei"
+  },
+  "Anampses_Neoguinaicus": {
+    "downloaded": 160,
+    "scientific_name": "Anampses neoguinaicus"
+  },
+  "Bodianus_Bilunulatus": {
+    "downloaded": 119,
+    "scientific_name": "Bodianus bilunulatus"
+  },
+  "Bodianus_Anthioides": {
+    "downloaded": 160,
+    "scientific_name": "Bodianus anthioides"
+  },
+  "Bodianus_Diana": {
+    "downloaded": 160,
+    "scientific_name": "Bodianus diana"
+  },
+  "Bodianus_Axillaris": {
+    "downloaded": 160,
+    "scientific_name": "Bodianus axillaris"
+  },
+  "Bodianus_Mesothorax": {
+    "downloaded": 160,
+    "scientific_name": "Bodianus mesothorax"
+  },
+  "Bodianus_Unimaculatus": {
+    "downloaded": 160,
+    "scientific_name": "Bodianus unimaculatus"
+  },
+  "Brachaluteres_Jacksonianus": {
+    "downloaded": 160,
+    "scientific_name": "Brachaluteres jacksonianus"
+  },
+  "Bothus_Pantherinus": {
+    "downloaded": 160,
+    "scientific_name": "Bothus pantherinus"
+  },
+  "Aprion_Virescens": {
+    "downloaded": 160,
+    "scientific_name": "Aprion virescens"
+  },
+  "Cantherhines_Fronticinctus": {
+    "downloaded": 135,
+    "scientific_name": "Cantherhines fronticinctus"
+  },
+  "Caesioperca_Lepidopterus": {
+    "downloaded": 160,
+    "scientific_name": "Caesioperca lepidopterus"
+  },
+  "Cantherhines_Dumerilii": {
+    "downloaded": 160,
+    "scientific_name": "Cantherhines dumerilii"
+  },
+  "Carangoides_Orthogrammus": {
+    "downloaded": 160,
+    "scientific_name": "Carangoides orthogrammus"
+  },
+  "Bothus_Mancus": {
+    "downloaded": 160,
+    "scientific_name": "Bothus mancus"
+  },
+  "Carcharhinus_Albimarginatus": {
+    "downloaded": 160,
+    "scientific_name": "Carcharhinus albimarginatus"
+  },
+  "Caranx_Sexfasciatus": {
+    "downloaded": 160,
+    "scientific_name": "Caranx sexfasciatus"
+  },
+  "Caranx_Melampygus": {
+    "downloaded": 160,
+    "scientific_name": "Caranx melampygus"
+  },
+  "Caranx_Lugubris": {
+    "downloaded": 160,
+    "scientific_name": "Caranx lugubris"
+  },
+  "Carcharhinus_Falciformis": {
+    "downloaded": 160,
+    "scientific_name": "Carcharhinus falciformis"
+  },
+  "Carcharhinus_Galapagensis": {
+    "downloaded": 160,
+    "scientific_name": "Carcharhinus galapagensis"
+  },
+  "Cantherhines_Pardalis": {
+    "downloaded": 160,
+    "scientific_name": "Cantherhines pardalis"
+  },
+  "Carcharhinus_Sorrah": {
+    "downloaded": 160,
+    "scientific_name": "Carcharhinus sorrah"
+  },
+  "Carcharhinus_Plumbeus": {
+    "downloaded": 160,
+    "scientific_name": "Carcharhinus plumbeus"
+  },
+  "Centroberyx_Affinis": {
+    "downloaded": 153,
+    "scientific_name": "Centroberyx affinis"
+  },
+  "Carcharhinus_Melanopterus": {
+    "downloaded": 160,
+    "scientific_name": "Carcharhinus melanopterus"
+  },
+  "Carcharhinus_Obscurus": {
+    "downloaded": 160,
+    "scientific_name": "Carcharhinus obscurus"
+  },
+  "Cephalopholis_Formosa": {
+    "downloaded": 160,
+    "scientific_name": "Cephalopholis formosa"
+  },
+  "Cephalopholis_Boenak": {
+    "downloaded": 160,
+    "scientific_name": "Cephalopholis boenak"
+  },
+  "Cephalopholis_Microprion": {
+    "downloaded": 160,
+    "scientific_name": "Cephalopholis microprion"
+  },
+  "Centrogenys_Vaigiensis": {
+    "downloaded": 160,
+    "scientific_name": "Centrogenys vaigiensis"
+  },
+  "Cephalopholis_Leopardus": {
+    "downloaded": 160,
+    "scientific_name": "Cephalopholis leopardus"
+  },
+  "Cephalopholis_Cyanostigma": {
+    "downloaded": 160,
+    "scientific_name": "Cephalopholis cyanostigma"
+  },
+  "Cheilinus_Oxycephalus": {
+    "downloaded": 144,
+    "scientific_name": "Cheilinus oxycephalus"
+  },
+  "Cephalopholis_Sonnerati": {
+    "downloaded": 160,
+    "scientific_name": "Cephalopholis sonnerati"
+  },
+  "Cheilio_Inermis": {
+    "downloaded": 160,
+    "scientific_name": "Cheilio inermis"
+  },
+  "Cheilodactylus_Vestitus": {
+    "downloaded": 160,
+    "scientific_name": "Cheilodactylus vestitus"
+  },
+  "Cheilinus_Trilobatus": {
+    "downloaded": 160,
+    "scientific_name": "Cheilinus trilobatus"
+  },
+  "Cephalopholis_Spiloparaea": {
+    "downloaded": 160,
+    "scientific_name": "Cephalopholis spiloparaea"
+  },
+  "Choerodon_Anchorago": {
+    "downloaded": 160,
+    "scientific_name": "Choerodon anchorago"
+  },
+  "Choerodon_Cyanodus": {
+    "downloaded": 160,
+    "scientific_name": "Choerodon cyanodus"
+  },
+  "Cheilodactylus_Spectabilis": {
+    "downloaded": 160,
+    "scientific_name": "Cheilodactylus spectabilis"
+  },
+  "Chelidonichthys_Kumu": {
+    "downloaded": 160,
+    "scientific_name": "Chelidonichthys kumu"
+  },
+  "Cirrhilabrus_Scottorum": {
+    "downloaded": 95,
+    "scientific_name": "Cirrhilabrus scottorum"
+  },
+  "Choerodon_Graphicus": {
+    "downloaded": 160,
+    "scientific_name": "Choerodon graphicus"
+  },
+  "Choerodon_Fasciatus": {
+    "downloaded": 160,
+    "scientific_name": "Choerodon fasciatus"
+  },
+  "Cirrhilabrus_Punctatus": {
+    "downloaded": 160,
+    "scientific_name": "Cirrhilabrus punctatus"
+  },
+  "Coris_Aygula": {
+    "downloaded": 160,
+    "scientific_name": "Coris aygula"
+  },
+  "Coris_Batuensis": {
+    "downloaded": 160,
+    "scientific_name": "Coris batuensis"
+  },
+  "Coris_Picta": {
+    "downloaded": 160,
+    "scientific_name": "Coris picta"
+  },
+  "Coris_Dorsomacula": {
+    "downloaded": 160,
+    "scientific_name": "Coris dorsomacula"
+  },
+  "Coris_Bulbifrons": {
+    "downloaded": 160,
+    "scientific_name": "Coris bulbifrons"
+  },
+  "Coris_Sandeyeri": {
+    "downloaded": 160,
+    "scientific_name": "Coris sandeyeri"
+  },
+  "Decapterus_Macrosoma": {
+    "downloaded": 15,
+    "scientific_name": "Decapterus macrosoma"
+  },
+  "Cymolutes_Praetextatus": {
+    "downloaded": 156,
+    "scientific_name": "Cymolutes praetextatus"
+  },
+  "Decapterus_Russelli": {
+    "downloaded": 14,
+    "scientific_name": "Decapterus russelli"
+  },
+  "Coris_Gaimard": {
+    "downloaded": 160,
+    "scientific_name": "Coris gaimard"
+  },
+  "Dactylophora_Nigricans": {
+    "downloaded": 160,
+    "scientific_name": "Dactylophora nigricans"
+  },
+  "Elagatis_Bipinnulata": {
+    "downloaded": 160,
+    "scientific_name": "Elagatis bipinnulata"
+  },
+  "Diproctacanthus_Xanthurus": {
+    "downloaded": 160,
+    "scientific_name": "Diproctacanthus xanthurus"
+  },
+  "Dotalabrus_Aurantiacus": {
+    "downloaded": 160,
+    "scientific_name": "Dotalabrus aurantiacus"
+  },
+  "Epibulus_Insidiator": {
+    "downloaded": 160,
+    "scientific_name": "Epibulus insidiator"
+  },
+  "Epinephelus_Bleekeri": {
+    "downloaded": 97,
+    "scientific_name": "Epinephelus bleekeri"
+  },
+  "Epinephelus_Areolatus": {
+    "downloaded": 160,
+    "scientific_name": "Epinephelus areolatus"
+  },
+  "Epinephelus_Coioides": {
+    "downloaded": 160,
+    "scientific_name": "Epinephelus coioides"
+  },
+  "Epinephelus_Corallicola": {
+    "downloaded": 107,
+    "scientific_name": "Epinephelus corallicola"
+  },
+  "Epinephelus_Coeruleopunctatus": {
+    "downloaded": 160,
+    "scientific_name": "Epinephelus coeruleopunctatus"
+  },
+  "Epinephelus_Macrospilos": {
+    "downloaded": 145,
+    "scientific_name": "Epinephelus macrospilos"
+  },
+  "Epinephelus_Cyanopodus": {
+    "downloaded": 160,
+    "scientific_name": "Epinephelus cyanopodus"
+  },
+  "Epinephelus_Hexagonatus": {
+    "downloaded": 160,
+    "scientific_name": "Epinephelus hexagonatus"
+  },
+  "Epinephelus_Rivulatus": {
+    "downloaded": 160,
+    "scientific_name": "Epinephelus rivulatus"
+  },
+  "Epinephelus_Fasciatus": {
+    "downloaded": 160,
+    "scientific_name": "Epinephelus fasciatus"
+  },
+  "Epinephelus_Fuscoguttatus": {
+    "downloaded": 160,
+    "scientific_name": "Epinephelus fuscoguttatus"
+  },
+  "Epinephelus_Merra": {
+    "downloaded": 160,
+    "scientific_name": "Epinephelus merra"
+  },
+  "Epinephelus_Polyphekadion": {
+    "downloaded": 160,
+    "scientific_name": "Epinephelus polyphekadion"
+  },
+  "Epinephelus_Undulatostriatus": {
+    "downloaded": 160,
+    "scientific_name": "Epinephelus undulatostriatus"
+  },
+  "Eubalichthys_Mosaicus": {
+    "downloaded": 160,
+    "scientific_name": "Eubalichthys mosaicus"
+  },
+  "Epinephelus_Quoyanus": {
+    "downloaded": 160,
+    "scientific_name": "Epinephelus quoyanus"
+  },
+  "Gnathodentex_Aureolineatus": {
+    "downloaded": 160,
+    "scientific_name": "Gnathodentex aureolineatus"
+  },
+  "Gnathanodon_Speciosus": {
+    "downloaded": 160,
+    "scientific_name": "Gnathanodon speciosus"
+  },
+  "Eupetrichthys_Angustipes": {
+    "downloaded": 160,
+    "scientific_name": "Eupetrichthys angustipes"
+  },
+  "Gymnosarda_Unicolor": {
+    "downloaded": 160,
+    "scientific_name": "Gymnosarda unicolor"
+  },
+  "Gracila_Albomarginata": {
+    "downloaded": 160,
+    "scientific_name": "Gracila albomarginata"
+  },
+  "Halichoeres_Chloropterus": {
+    "downloaded": 160,
+    "scientific_name": "Halichoeres chloropterus"
+  },
+  "Halichoeres_Biocellatus": {
+    "downloaded": 160,
+    "scientific_name": "Halichoeres biocellatus"
+  },
+  "Halichoeres_Leucurus": {
+    "downloaded": 92,
+    "scientific_name": "Halichoeres leucurus"
+  },
+  "Halichoeres_Argus": {
+    "downloaded": 160,
+    "scientific_name": "Halichoeres argus"
+  },
+  "Halichoeres_Marginatus": {
+    "downloaded": 160,
+    "scientific_name": "Halichoeres marginatus"
+  },
+  "Halichoeres_Chrysus": {
+    "downloaded": 160,
+    "scientific_name": "Halichoeres chrysus"
+  },
+  "Halichoeres_Hortulanus": {
+    "downloaded": 160,
+    "scientific_name": "Halichoeres hortulanus"
+  },
+  "Halichoeres_Margaritaceus": {
+    "downloaded": 160,
+    "scientific_name": "Halichoeres margaritaceus"
+  },
+  "Halichoeres_Nigrescens": {
+    "downloaded": 160,
+    "scientific_name": "Halichoeres nigrescens"
+  },
+  "Halichoeres_Scapularis": {
+    "downloaded": 160,
+    "scientific_name": "Halichoeres scapularis"
+  },
+  "Halichoeres_Trimaculatus": {
+    "downloaded": 160,
+    "scientific_name": "Halichoeres trimaculatus"
+  },
+  "Hemiramphus_Far": {
+    "downloaded": 160,
+    "scientific_name": "Hemiramphus far"
+  },
+  "Herklotsichthys_Quadrimaculatus": {
+    "downloaded": 81,
+    "scientific_name": "Herklotsichthys quadrimaculatus"
+  },
+  "Hemigymnus_Fasciatus": {
+    "downloaded": 160,
+    "scientific_name": "Hemigymnus fasciatus"
+  },
+  "Hyporhamphus_Dussumieri": {
+    "downloaded": 68,
+    "scientific_name": "Hyporhamphus dussumieri"
+  },
+  "Halichoeres_Nebulosus": {
+    "downloaded": 160,
+    "scientific_name": "Halichoeres nebulosus"
+  },
+  "Hologymnosus_Doliatus": {
+    "downloaded": 160,
+    "scientific_name": "Hologymnosus doliatus"
+  },
+  "Hologymnosus_Annulatus": {
+    "downloaded": 160,
+    "scientific_name": "Hologymnosus annulatus"
+  },
+  "Labroides_Bicolor": {
+    "downloaded": 160,
+    "scientific_name": "Labroides bicolor"
+  },
+  "Katsuwonus_Pelamis": {
+    "downloaded": 160,
+    "scientific_name": "Katsuwonus pelamis"
+  },
+  "Labropsis_Australis": {
+    "downloaded": 150,
+    "scientific_name": "Labropsis australis"
+  },
+  "Labroides_Pectoralis": {
+    "downloaded": 160,
+    "scientific_name": "Labroides pectoralis"
+  },
+  "Labropsis_Xanthonota": {
+    "downloaded": 136,
+    "scientific_name": "Labropsis xanthonota"
+  },
+  "Labrichthys_Unilineatus": {
+    "downloaded": 160,
+    "scientific_name": "Labrichthys unilineatus"
+  },
+  "Istiophorus_Platypterus": {
+    "downloaded": 160,
+    "scientific_name": "Istiophorus platypterus"
+  },
+  "Lethrinus_Miniatus": {
+    "downloaded": 0,
+    "scientific_name": "Lethrinus miniatus"
+  },
+  "Lethrinus_Genivittatus": {
+    "downloaded": 160,
+    "scientific_name": "Lethrinus genivittatus"
+  },
+  "Lethrinus_Atkinsoni": {
+    "downloaded": 160,
+    "scientific_name": "Lethrinus atkinsoni"
+  },
+  "Lethrinus_Lentjan": {
+    "downloaded": 160,
+    "scientific_name": "Lethrinus lentjan"
+  },
+  "Lethrinus_Harak": {
+    "downloaded": 160,
+    "scientific_name": "Lethrinus harak"
+  },
+  "Lethrinus_Nebulosus": {
+    "downloaded": 160,
+    "scientific_name": "Lethrinus nebulosus"
+  },
+  "Lethrinus_Obsoletus": {
+    "downloaded": 160,
+    "scientific_name": "Lethrinus obsoletus"
+  },
+  "Liza_Subviridis": {
+    "downloaded": 101,
+    "scientific_name": "Liza subviridis"
+  },
+  "Lethrinus_Erythracanthus": {
+    "downloaded": 160,
+    "scientific_name": "Lethrinus erythracanthus"
+  },
+  "Lethrinus_Rubrioperculatus": {
+    "downloaded": 51,
+    "scientific_name": "Lethrinus rubrioperculatus"
+  },
+  "Lethrinus_Xanthochilus": {
+    "downloaded": 160,
+    "scientific_name": "Lethrinus xanthochilus"
+  },
+  "Liza_Vaigiensis": {
+    "downloaded": 160,
+    "scientific_name": "Liza vaigiensis"
+  },
+  "Lethrinus_Olivaceus": {
+    "downloaded": 160,
+    "scientific_name": "Lethrinus olivaceus"
+  },
+  "Lutjanus_Argentimaculatus": {
+    "downloaded": 160,
+    "scientific_name": "Lutjanus argentimaculatus"
+  },
+  "Lutjanus_Bohar": {
+    "downloaded": 160,
+    "scientific_name": "Lutjanus bohar"
+  },
+  "Lutjanus_Fulvus": {
+    "downloaded": 160,
+    "scientific_name": "Lutjanus fulvus"
+  },
+  "Lutjanus_Johnii": {
+    "downloaded": 128,
+    "scientific_name": "Lutjanus johnii"
+  },
+  "Lutjanus_Fulviflamma": {
+    "downloaded": 160,
+    "scientific_name": "Lutjanus fulviflamma"
+  },
+  "Lutjanus_Biguttatus": {
+    "downloaded": 160,
+    "scientific_name": "Lutjanus biguttatus"
+  },
+  "Lutjanus_Lemniscatus": {
+    "downloaded": 149,
+    "scientific_name": "Lutjanus lemniscatus"
+  },
+  "Lutjanus_Malabaricus": {
+    "downloaded": 79,
+    "scientific_name": "Lutjanus malabaricus"
+  },
+  "Lutjanus_Monostigma": {
+    "downloaded": 160,
+    "scientific_name": "Lutjanus monostigma"
+  },
+  "Lutjanus_Carponotatus": {
+    "downloaded": 160,
+    "scientific_name": "Lutjanus carponotatus"
+  },
+  "Lutjanus_Gibbus": {
+    "downloaded": 160,
+    "scientific_name": "Lutjanus gibbus"
+  },
+  "Lutjanus_Semicinctus_Quoy": {
+    "downloaded": 160,
+    "scientific_name": "Lutjanus semicinctus quoy"
+  },
+  "Lutjanus_Lutjanus": {
+    "downloaded": 160,
+    "scientific_name": "Lutjanus lutjanus"
+  },
+  "Lutjanus_Russellii": {
+    "downloaded": 160,
+    "scientific_name": "Lutjanus russellii"
+  },
+  "Lutjanus_Semicinctus": {
+    "downloaded": 160,
+    "scientific_name": "Lutjanus semicinctus"
+  },
+  "Lutjanus_Quinquelineatus": {
+    "downloaded": 160,
+    "scientific_name": "Lutjanus quinquelineatus"
+  },
+  "Macolor_Niger": {
+    "downloaded": 160,
+    "scientific_name": "Macolor niger"
+  },
+  "Macolor_Macularis": {
+    "downloaded": 160,
+    "scientific_name": "Macolor macularis"
+  },
+  "Lutjanus_Vitta": {
+    "downloaded": 160,
+    "scientific_name": "Lutjanus vitta"
+  },
+  "Macropharyngodon_Meleagris": {
+    "downloaded": 160,
+    "scientific_name": "Macropharyngodon meleagris"
+  },
+  "Lutjanus_Rivulatus": {
+    "downloaded": 160,
+    "scientific_name": "Lutjanus rivulatus"
+  },
+  "Macropharyngodon_Ornatus": {
+    "downloaded": 156,
+    "scientific_name": "Macropharyngodon ornatus"
+  },
+  "Macropharyngodon_Negrosensis": {
+    "downloaded": 160,
+    "scientific_name": "Macropharyngodon negrosensis"
+  },
+  "Meuschenia_Freycineti": {
+    "downloaded": 160,
+    "scientific_name": "Meuschenia freycineti"
+  },
+  "Megalaspis_Cordyla": {
+    "downloaded": 122,
+    "scientific_name": "Megalaspis cordyla"
+  },
+  "Meuschenia_Hippocrepis": {
+    "downloaded": 160,
+    "scientific_name": "Meuschenia hippocrepis"
+  },
+  "Meuschenia_Galii": {
+    "downloaded": 160,
+    "scientific_name": "Meuschenia galii"
+  },
+  "Meuschenia_Trachylepis": {
+    "downloaded": 160,
+    "scientific_name": "Meuschenia trachylepis"
+  },
+  "Monacanthus_Chinensis": {
+    "downloaded": 160,
+    "scientific_name": "Monacanthus chinensis"
+  },
+  "Monotaxis_Grandoculis": {
+    "downloaded": 160,
+    "scientific_name": "Monotaxis grandoculis"
+  },
+  "Naucrates_Ductor": {
+    "downloaded": 160,
+    "scientific_name": "Naucrates ductor"
+  },
+  "Netuma_Thalassina": {
+    "downloaded": 32,
+    "scientific_name": "Netuma thalassina"
+  },
+  "Meuschenia_Scaber": {
+    "downloaded": 160,
+    "scientific_name": "Meuschenia scaber"
+  },
+  "Nemadactylus_Douglasii": {
+    "downloaded": 160,
+    "scientific_name": "Nemadactylus douglasii"
+  },
+  "Otolithes_Ruber": {
+    "downloaded": 103,
+    "scientific_name": "Otolithes ruber"
+  },
+  "Notolabrus_Gymnogenis": {
+    "downloaded": 160,
+    "scientific_name": "Notolabrus gymnogenis"
+  },
+  "Negaprion_Acutidens": {
+    "downloaded": 160,
+    "scientific_name": "Negaprion acutidens"
+  },
+  "Notolabrus_Tetricus": {
+    "downloaded": 160,
+    "scientific_name": "Notolabrus tetricus"
+  },
+  "Oxycheilinus_Unifasciatus": {
+    "downloaded": 160,
+    "scientific_name": "Oxycheilinus unifasciatus"
+  },
+  "Novaculichthys_Taeniourus": {
+    "downloaded": 160,
+    "scientific_name": "Novaculichthys taeniourus"
+  },
+  "Notolabrus_Fucicola": {
+    "downloaded": 160,
+    "scientific_name": "Notolabrus fucicola"
+  },
+  "Parastromateus_Niger": {
+    "downloaded": 67,
+    "scientific_name": "Parastromateus niger"
+  },
+  "Paraplagusia_Bilineata": {
+    "downloaded": 58,
+    "scientific_name": "Paraplagusia bilineata"
+  },
+  "Oxymonacanthus_Longirostris": {
+    "downloaded": 160,
+    "scientific_name": "Oxymonacanthus longirostris"
+  },
+  "Pervagor_Aspricaudus": {
+    "downloaded": 85,
+    "scientific_name": "Pervagor aspricaudus"
+  },
+  "Pentapodus_Paradiseus": {
+    "downloaded": 160,
+    "scientific_name": "Pentapodus paradiseus"
+  },
+  "Oxycheilinus_Digrammus": {
+    "downloaded": 160,
+    "scientific_name": "Oxycheilinus digrammus"
+  },
+  "Pentapodus_Vitta_Quoy": {
+    "downloaded": 160,
+    "scientific_name": "Pentapodus vitta quoy"
+  },
+  "Pervagor_Melanocephalus": {
+    "downloaded": 124,
+    "scientific_name": "Pervagor melanocephalus"
+  },
+  "Paraluteres_Prionurus": {
+    "downloaded": 160,
+    "scientific_name": "Paraluteres prionurus"
+  },
+  "Pseudanthias_Cooperi": {
+    "downloaded": 141,
+    "scientific_name": "Pseudanthias cooperi"
+  },
+  "Psettodes_Erumei": {
+    "downloaded": 91,
+    "scientific_name": "Psettodes erumei"
+  },
+  "Plectropomus_Oligacanthus": {
+    "downloaded": 160,
+    "scientific_name": "Plectropomus oligacanthus"
+  },
+  "Plectropomus_Maculatus": {
+    "downloaded": 160,
+    "scientific_name": "Plectropomus maculatus"
+  },
+  "Plotosus_Lineatus": {
+    "downloaded": 160,
+    "scientific_name": "Plotosus lineatus"
+  },
+  "Plectropomus_Leopardus": {
+    "downloaded": 160,
+    "scientific_name": "Plectropomus leopardus"
+  },
+  "Pseudanthias_Rubrizonatus": {
+    "downloaded": 150,
+    "scientific_name": "Pseudanthias rubrizonatus"
+  },
+  "Pseudanthias_Squamipinnis": {
+    "downloaded": 160,
+    "scientific_name": "Pseudanthias squamipinnis"
+  },
+  "Pseudanthias_Tuka": {
+    "downloaded": 160,
+    "scientific_name": "Pseudanthias tuka"
+  },
+  "Pseudocaranx_Dentex": {
+    "downloaded": 160,
+    "scientific_name": "Pseudocaranx dentex"
+  },
+  "Pseudojuloides_Cerasinus": {
+    "downloaded": 124,
+    "scientific_name": "Pseudojuloides cerasinus"
+  },
+  "Pseudocheilinus_Evanidus": {
+    "downloaded": 160,
+    "scientific_name": "Pseudocheilinus evanidus"
+  },
+  "Pseudocheilinus_Hexataenia": {
+    "downloaded": 160,
+    "scientific_name": "Pseudocheilinus hexataenia"
+  },
+  "Rhabdosargus_Sarba": {
+    "downloaded": 160,
+    "scientific_name": "Rhabdosargus sarba"
+  },
+  "Pseudocheilinus_Octotaenia": {
+    "downloaded": 160,
+    "scientific_name": "Pseudocheilinus octotaenia"
+  },
+  "Sardinella_Albella": {
+    "downloaded": 16,
+    "scientific_name": "Sardinella albella"
+  },
+  "Pseudorhombus_Arsius": {
+    "downloaded": 92,
+    "scientific_name": "Pseudorhombus arsius"
+  },
+  "Pteragogus_Enneacanthus": {
+    "downloaded": 160,
+    "scientific_name": "Pteragogus enneacanthus"
+  },
+  "Sardinella_Gibbosa": {
+    "downloaded": 48,
+    "scientific_name": "Sardinella gibbosa"
+  },
+  "Rhizoprionodon_Acutus": {
+    "downloaded": 127,
+    "scientific_name": "Rhizoprionodon acutus"
+  },
+  "Pseudodax_Moluccanus": {
+    "downloaded": 160,
+    "scientific_name": "Pseudodax moluccanus"
+  },
+  "Scolopsis_Bilineata": {
+    "downloaded": 0,
+    "scientific_name": "Scolopsis bilineata"
+  },
+  "Scolopsis_Trilineata": {
+    "downloaded": 0,
+    "scientific_name": "Scolopsis trilineata"
+  },
+  "Scolopsis_Vosmeri": {
+    "downloaded": 0,
+    "scientific_name": "Scolopsis vosmeri"
+  },
+  "Scolopsis_Xenochrous": {
+    "downloaded": 0,
+    "scientific_name": "Scolopsis xenochrous"
+  },
+  "Scomberoides_Commersonnianus": {
+    "downloaded": 0,
+    "scientific_name": "Scomberoides commersonnianus"
+  },
+  "Scomberoides_Lysan": {
+    "downloaded": 0,
+    "scientific_name": "Scomberoides lysan"
+  },
+  "Scomberomorus_Commerson": {
+    "downloaded": 0,
+    "scientific_name": "Scomberomorus commerson"
+  },
+  "Selar_Crumenophthalmus": {
+    "downloaded": 0,
+    "scientific_name": "Selar crumenophthalmus"
+  },
+  "Selaroides_Leptolepis": {
+    "downloaded": 0,
+    "scientific_name": "Selaroides leptolepis"
+  },
+  "Seriola_Dumerili": {
+    "downloaded": 0,
+    "scientific_name": "Seriola dumerili"
+  },
+  "Seriola_Hippos": {
+    "downloaded": 0,
+    "scientific_name": "Seriola hippos"
+  },
+  "Seriola_Rivoliana": {
+    "downloaded": 0,
+    "scientific_name": "Seriola rivoliana"
+  },
+  "Serranocirrhitus_Latus": {
+    "downloaded": 0,
+    "scientific_name": "Serranocirrhitus latus"
+  },
+  "Sillago_Ciliata": {
+    "downloaded": 0,
+    "scientific_name": "Sillago ciliata"
+  },
+  "Soleichthys_Heterorhinos": {
+    "downloaded": 0,
+    "scientific_name": "Soleichthys heterorhinos"
+  },
+  "Sphyraena_Barracuda": {
+    "downloaded": 0,
+    "scientific_name": "Sphyraena barracuda"
+  },
+  "Sphyraena_Forsteri": {
+    "downloaded": 0,
+    "scientific_name": "Sphyraena forsteri"
+  },
+  "Sphyraena_Jello": {
+    "downloaded": 0,
+    "scientific_name": "Sphyraena jello"
+  },
+  "Sphyraena_Obtusata": {
+    "downloaded": 0,
+    "scientific_name": "Sphyraena obtusata"
+  },
+  "Stegostoma_Fasciatum": {
+    "downloaded": 0,
+    "scientific_name": "Stegostoma fasciatum"
+  },
+  "Stethojulis_Bandanensis": {
+    "downloaded": 0,
+    "scientific_name": "Stethojulis bandanensis"
+  },
+  "Stethojulis_Interrupta": {
+    "downloaded": 0,
+    "scientific_name": "Stethojulis interrupta"
+  },
+  "Stethojulis_Strigiventer": {
+    "downloaded": 0,
+    "scientific_name": "Stethojulis strigiventer"
+  },
+  "Stethojulis_Trilineata": {
+    "downloaded": 0,
+    "scientific_name": "Stethojulis trilineata"
+  },
+  "Suezichthys_Arquatus": {
+    "downloaded": 0,
+    "scientific_name": "Suezichthys arquatus"
+  },
+  "Symphorus_Nematophorus": {
+    "downloaded": 0,
+    "scientific_name": "Symphorus nematophorus"
+  },
+  "Thalassoma_Amblycephalum": {
+    "downloaded": 0,
+    "scientific_name": "Thalassoma amblycephalum"
+  },
+  "Thalassoma_Hardwicke": {
+    "downloaded": 0,
+    "scientific_name": "Thalassoma hardwicke"
+  },
+  "Thalassoma_Jansenii": {
+    "downloaded": 0,
+    "scientific_name": "Thalassoma jansenii"
+  },
+  "Thalassoma_Lutescens": {
+    "downloaded": 0,
+    "scientific_name": "Thalassoma lutescens"
+  },
+  "Thalassoma_Nigrofasciatum": {
+    "downloaded": 0,
+    "scientific_name": "Thalassoma nigrofasciatum"
+  },
+  "Thalassoma_Purpureum": {
+    "downloaded": 0,
+    "scientific_name": "Thalassoma purpureum"
+  },
+  "Thalassoma_Quinquevittatum": {
+    "downloaded": 0,
+    "scientific_name": "Thalassoma quinquevittatum"
+  },
+  "Thalassoma_Trilobatum": {
+    "downloaded": 0,
+    "scientific_name": "Thalassoma trilobatum"
+  },
+  "Thunnus_Alalunga": {
+    "downloaded": 0,
+    "scientific_name": "Thunnus alalunga"
+  },
+  "Thunnus_Albacares": {
+    "downloaded": 0,
+    "scientific_name": "Thunnus albacares"
+  },
+  "Trachichthys_Australis": {
+    "downloaded": 0,
+    "scientific_name": "Trachichthys australis"
+  },
+  "Trachinotus_Baillonii": {
+    "downloaded": 0,
+    "scientific_name": "Trachinotus baillonii"
+  },
+  "Trachinotus_Blochii": {
+    "downloaded": 0,
+    "scientific_name": "Trachinotus blochii"
+  },
+  "Trachypoma_Macracanthus": {
+    "downloaded": 0,
+    "scientific_name": "Trachypoma macracanthus"
+  },
+  "Triaenodon_Obesus": {
+    "downloaded": 0,
+    "scientific_name": "Triaenodon obesus"
+  },
+  "Variola_Albimarginata": {
+    "downloaded": 0,
+    "scientific_name": "Variola albimarginata"
+  },
+  "Variola_Louti": {
+    "downloaded": 0,
+    "scientific_name": "Variola louti"
+  },
+  "Wetmorella_Nigropinnata": {
+    "downloaded": 0,
+    "scientific_name": "Wetmorella nigropinnata"
+  },
+  "Zenarchopterus_Dispar": {
+    "downloaded": 0,
+    "scientific_name": "Zenarchopterus dispar"
+  },
+  "Zeus_Faber": {
+    "downloaded": 0,
+    "scientific_name": "Zeus faber"
+  },
+  "Scolopsis_Monogramma": {
+    "downloaded": 0,
+    "scientific_name": "Scolopsis monogramma"
+  },
+  "Scolopsis_Margaritifer": {
+    "downloaded": 0,
+    "scientific_name": "Scolopsis margaritifer"
+  },
+  "Scolopsis_Affinis": {
+    "downloaded": 38,
+    "scientific_name": "Scolopsis affinis"
+  },
+  "Rhincodon_Typus": {
+    "downloaded": 74,
+    "scientific_name": "Rhincodon typus"
+  },
+  "Sardinops_Sagax": {
+    "downloaded": 96,
+    "scientific_name": "Sardinops sagax"
+  }
+}

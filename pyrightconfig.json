@@ -1,0 +1,15 @@
+{
+  "executionEnvironments": [
+    {
+      "root": "ml-py",
+      "pythonPath": "d:/oceanmind-ai/ml-py/venv/Scripts/python.exe",
+      "extraPaths": [
+        "d:/oceanmind-ai/ml-py",
+        "d:/oceanmind-ai/ml-py/venv/Lib/site-packages",
+        "C:/Users/HP/AppData/Local/Programs/Python/Python312/Lib/site-packages"
+      ]
+    }
+  ],
+  "reportMissingImports": "none",
+  "reportMissingModuleSource": "none"
+}

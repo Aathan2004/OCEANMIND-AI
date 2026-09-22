@@ -1,0 +1,48 @@
+{
+  "name": "AquaIntel AI — Ocean Intelligence Platform",
+  "short_name": "AquaIntel AI",
+  "description": "AI-powered fish species identification, live ocean conditions, and marine research assistant.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0f1a",
+  "theme_color": "#06b6d4",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["education", "science", "utilities"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Fish Identification",
+      "short_name": "Identify Fish",
+      "description": "Upload a fish photo for AI species identification",
+      "url": "/fish-identification",
+      "icons": [{ "src": "/favicon.svg", "sizes": "any" }]
+    },
+    {
+      "name": "Ocean Dashboard",
+      "short_name": "Ocean Data",
+      "description": "Live ocean conditions and NOAA data",
+      "url": "/ocean-dashboard",
+      "icons": [{ "src": "/favicon.svg", "sizes": "any" }]
+    },
+    {
+      "name": "Marine AI Assistant",
+      "short_name": "Marine AI",
+      "description": "Chat with the AI marine research assistant",
+      "url": "/marine-ai",
+      "icons": [{ "src": "/favicon.svg", "sizes": "any" }]
+    }
+  ]
+}
